@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         clean bsky handles
+// @name         bluesky: strip '.bsky.social' handle suffixes
 // @namespace    https://kyu.re/~userscripts
 // @version      1.0
 // @description  remove the .bsky.social suffix from visible text of profile links
